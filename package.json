@@ -10,7 +10,7 @@
     "test": "vitest"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.15.0",
+    "@modelcontextprotocol/sdk": "^1.32.1",
     "@vercel/mcp-adapter": "^0.11.1",
     "next": "15.3.5",
     "react": "^19.0.0",
